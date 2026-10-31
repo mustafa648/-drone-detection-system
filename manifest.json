@@ -1,0 +1,27 @@
+{
+  "name": "منظومة الرصد الصوتي للمسيرات AeroGuard CIS Pro",
+  "short_name": "AeroGuard CIS",
+  "description": "نظام هجين لرصد وتصنيف الطائرات المسيرة وتحديد موقعها الجغرافي أونلاين وأوفلاين",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#04090e",
+  "theme_color": "#04090e",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='38' fill='%2304090e'/><circle cx='96' cy='96' r='72' fill='none' stroke='%2310b981' stroke-width='8'/><circle cx='96' cy='96' r='40' fill='none' stroke='%2310b981' stroke-width='4' stroke-dasharray='8 6'/><circle cx='96' cy='96' r='12' fill='%230ea5e9'/><circle cx='130' cy='62' r='10' fill='%23f43f5e'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='96' fill='%2304090e'/><circle cx='256' cy='256' r='190' fill='none' stroke='%2310b981' stroke-width='18'/><circle cx='256' cy='256' r='30' fill='%230ea5e9'/><circle cx='345' cy='165' r='24' fill='%23f43f5e'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
